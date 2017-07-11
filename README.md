@@ -7,4 +7,4 @@ git is a version control system
 
 How about add some words
 
-Create a new branch 
+Create a new branch is quick and simple
